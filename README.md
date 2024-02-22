@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me "fswarsi@hotmail.com"
 - 😄 Pronouns: ...
-- ⚡ Fun fact: enjoying working with different teams
+- ⚡ Fun fact: 
 
 <!---
 fswarsi/fswarsi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
